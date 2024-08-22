@@ -11,18 +11,24 @@ Repo de materiales y proyectos de la asignatura **NombreAsignatura** del [Grado 
 - Evaluaciones
   - Evaluación continua: [Retos!](evaluaciones/retos/README.md)
   - Exámenes
-    - Parcial: Enunciado | Repositorio de trabajo y entrega.
-    - Final: Enunciado | Repositorio de trabajo y entrega.
+    - Parcial: [Enunciado](evaluaciones/examenes/examenParcial/README.md) | Repositorio de trabajo y entrega.
+    - Final: [Enunciado](evaluaciones/examenes/examenFinal/README.md) | Repositorio de trabajo y entrega.
+    - Extraordinario: [Enunciado](evaluaciones/examenes/examenExtraordinario/README.md) | Repositorio de trabajo y entrega.
 
 > ***NOTA:*** Los repositorios de entrega de exámenes estarán disponible días antes del examen. El repositorio con el enunciado del examen se activa al inicio del examen y permitirá entregas hasta la finalización del mismo.
 
 ## Herramientas et al
 
-- [Plantillas](/documentos/plantillas.md)
-- [PlantText](https://www.planttext.com/), para usar el formato [PlantUML](https://plantuml.com/es/) al realizar diagramas [de actividades](https://plantuml.com/es/activity-diagram-beta), [de estados](https://plantuml.com/es/state-diagram), de [clases](https://plantuml.com/es/class-diagram) y de [objetos](https://plantuml.com/es/object-diagram). 
-- [Google Docs](https://drive.google.com/drive/u/0/my-drive)
-- [Visual Studio Code](https://code.visualstudio.com/)
 - [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [PlantText](https://www.planttext.com/), para usar el formato [PlantUML](https://plantuml.com/es/) al realizar diagramas de:
+  - [actividades](https://plantuml.com/es/activity-diagram-beta)
+  - [estados](https://plantuml.com/es/state-diagram)
+  - [clases](https://plantuml.com/es/class-diagram)
+  - [objetos](https://plantuml.com/es/object-diagram)
+  - [y otros...](https://plantuml.com/es/sitemap-language-specification)
+- [Google Docs](https://drive.google.com/drive/u/0/my-drive)
+- [Plantillas](/documentos/plantillas.md)
 
 ## Bibliografía & enlaces interesantes
 
